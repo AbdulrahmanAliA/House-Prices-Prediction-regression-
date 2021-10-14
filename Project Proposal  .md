@@ -15,6 +15,6 @@
 
 ## Tools:
 
-### Python, Pandas, Numpy, sklearn, seaborn, statsmodels, patsey, matplotlib.
+### Python, Pandas, Numpy, sklearn, seaborn, statsmodels, patsey, matplotlib , Beautiful Soup.
 
 
