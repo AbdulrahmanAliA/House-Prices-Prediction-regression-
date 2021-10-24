@@ -2,19 +2,18 @@
 
 ## Background:
 
-### Premier League:
-***The Premier League, often referred to as the English Premier League or the EPL, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League.***
+### Riyadh house prices:
+***Riyadh is the capital of Saudi Arabia and it ' is one of the biggest cities in golf region. Riyadh has more than 7 millions population and it is growing everyday with it number of houses increases.***
 
 ## Project Scope:
-### the objective of the project is to predict who will win the next match. football coatchs and analysts could get match result after filling up all features of the comming match, such as Time, Day, Formation, Referee,Venue,etc in our model.  
+
+### the objective of the project is to predict new listed Riyadh house prices. predicting house price by given features such as area of the house,neighborhood area, number of bedrooms ...etc.
+
 
 ## Data Description:
-### FBref is a website devoted to tracking statistics for football teams and players from around the world. FBref was created by Sports-Reference, the team behind popular stats websites like Baseball-Reference and Basketball-Reference.(FBREF) (https://fbref.com/en/)
 
-### the website table contain 17 features we will be using 11 features of them and more than a thousand rows to build our regression model
+### Data of the project was scraped from Aqar website. We have scraped over 30000 rows of data from Aqar including features: Prices,area,age of the house,number of bedrooms, number of bathrooms, number of living rooms, house dircation, street width, neighborhood area, number of apartments.
+
 
 ## Tools:
-
-### Python, Pandas, Numpy, sklearn, seaborn, statsmodels, patsey, matplotlib , Beautiful Soup.
-
-
+### Python, Pandas, Numpy, sklearn, seaborn, statsmodels, patsey, matplotlib, BeautifulSoup.
